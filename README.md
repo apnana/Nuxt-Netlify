@@ -1,6 +1,6 @@
 # deploy_to_netlify
 
-> My groundbreaking Nuxt.js project
+> Netlifyのお試しプロジェクト
 
 ## Build Setup
 
